@@ -1,0 +1,35 @@
+
+.teh_device_slider .slick-slide {
+    padding: 0 20px;
+}
+.teh_device_slider div img{
+    max-width: 80%;
+    position: relative;
+    margin: 0 auto;
+    left: 10%;
+}
+.teh_device_slider div h3{
+    margin-bottom: 0px;
+}
+.teh_device_slider div p{
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.teh_device_slider div .teh_device_price{
+    font-family: "Magistral";
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+}
+.teh_device_slider div .teh_device_price span{
+    font-size: 30px;
+}
+.teh_device_slider div a{
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    color: #161616;
+    font-family: "Magistral";
+}
